@@ -1,0 +1,11 @@
+5. Lancer le script et vérifier qu'il échoue ! Expliquer pourquoi (en créant un petit fichier reponse.txt )
+
+Après avoir lancé mon script python j'ai donc l'erreur : An error occurred (BucketAlreadyOwnedByYou) when calling the CreateBucket operation: Your previous request to create the named bucket succeeded and you already own it.
+
+9. 5 éléments qui changent de Paris à Frankcfurt
+
+ 1. esgi-paris-al-m2-iac-theoazouz-td2
+ 2. 'LocationConstraint':'eu-west-3'
+ 3. 'source_code_v1.zip', 'esgi-paris-al-m2-iac-theoazouz-td2', 'source_code_v1.zip'
+ 4. FunctionName='EsgiAlM2TheoAzouzParisIac
+ 5. Role='arn:aws:iam::815270442346:role/EsgiAlM2LambdaTheoAzouzParis',
